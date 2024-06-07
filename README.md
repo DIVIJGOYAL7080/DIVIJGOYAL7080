@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I am Divij Goyal , 17 year old, from India 🇮🇳
+- I am Divij Goyal , 17 years old, from India 🇮🇳
 - Languages - JavaScript , JSX , Python 🤖 
 - Seeking admission in top universities across the globe 🌍 
 - You're welcome to look at my journey from my very first project 🦾 
