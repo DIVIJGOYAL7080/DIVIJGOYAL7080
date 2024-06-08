@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I am Divij Goyal , 17 years old, from India 🇮🇳
-- certified game developer, android/ios app developer from WhiteHatJr.. 🔥
+- certified game developer, android/ios app developer.. 🔥
 - Languages - JavaScript,JSX,C#,Python,SQL,HTML... 🤖 
 - worked on - Code.org,p5,vscode,expo,collab.... and many more 🚀
 - currently exploring 3d game development on unity🦾 
