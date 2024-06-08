@@ -1,9 +1,9 @@
 ## Hi there 👋
 - I am Divij Goyal , 17 years old, from India 🇮🇳
-- Languages - JavaScript , JSX , Python 🤖 
-- Seeking admission in top universities across the globe 🌍 
-- You're welcome to look at my journey from my very first project 🦾 
-- Hope y'all like them 😄 
+- Languages - JavaScript,JSX,C#,Python,SQL,HTML... 🤖 
+- worked on - Code.org,p5,vscode,expo,collab.... and many more 🚀
+- currently exploring 3d game development on unity🦾 
+ 
 <!--
 **DIVIJGOYAL7080/DIVIJGOYAL7080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
