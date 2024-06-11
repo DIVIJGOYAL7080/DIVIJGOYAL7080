@@ -3,7 +3,7 @@
 - certified game developer, android/ios app developer.. 🔥
 - Languages - JavaScript,JSX,C#,Python,SQL,HTML... 🤖 
 - worked on - Code.org,p5,vscode,expo,collab.... and many more 🚀
-- currently exploring 3d game development on unity🦾 
+- full stack blockchain development, Artificial intelligence , NFT mint dap..... 
 
 <!--
 **DIVIJGOYAL7080/DIVIJGOYAL7080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
