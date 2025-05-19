@@ -1,6 +1,5 @@
 ## Hi there 👋
 - I am Divij Goyal 🇮🇳
-- game developer, android/ios app developer.. 
 - Languages - JavaScript,JSX,C#,Python,SQL,HTML... 🤖 
 - worked on - Code.org,p5,vscode,expo,collab.... and many more 🚀
 
